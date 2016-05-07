@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sistema de Votacion</string>
+    <string name="title_activity_login">Inicio de sesion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_cedula">Cedula</string>
+    <string name="login_pin">PIN</string>
+    <string name="login_votar">Votar</string>
+    <string name="title_activity_votacion">Votacion</string>
+    <string name="user1">40222045060</string>
+    <string name="pin1">12345</string>
+    <string name="user2">00112345678</string>
+    <string name="pin2">67890</string>
+    <string name="user3">00109876540</string>
+    <string name="pin3">54321</string>
+    <string name="title_activity_confirmacion">Confirmacion</string>
+    <string name="nombreCand1">Nombre del candidato 1</string>
+    <string name="title_activity_votacion_completa">Votacion Completa</string>
+
+</resources>
